@@ -9,7 +9,11 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>[B][COLOR crimson]CM[/COLOR][/B] Repo</summary>
+<<<<<<< HEAD
         <description>The official home of [B][COLOR crimson]CM[/COLOR][/B] Wizard.</description>
+=======
+        <description>The official home of [B][COLOR midnightblue]CM[/COLOR][/B] Wizard.</description>
+>>>>>>> 65585d60232e03a986afd20800d015bc340e01ef
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
